@@ -31,3 +31,13 @@ This app is made to ask questions about any uploaded image. It works on the Visi
    docker ps
 
    ```
+
+## Usage
+
+1. The application can be used on your local machine at : (http://localhost:8004/)
+
+2. The application doesn't have a UI. To try the app, you can goto - (http://localhost:8004/docs)
+
+3. In then POST method, goto - 'Try it out' option.
+
+4. Upload your image (should be in jpg or jpeg format) and ask a question about it, the response is displayed as a JSON object.
