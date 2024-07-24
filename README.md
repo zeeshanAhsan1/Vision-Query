@@ -7,7 +7,7 @@ This app is made to ask questions about any uploaded image. It works on the Visi
 1. Clone the repository :
 
    ```sh
-   git clone https://github.com/zeeshanAhsan1/fastapi-ml.git
+   git clone https://github.com/zeeshanAhsan1/Vision-Query.git
 
    ```
 
