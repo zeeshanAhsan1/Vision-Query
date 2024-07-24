@@ -1,4 +1,4 @@
-# fastapi-ml
+# Vision-Query
 
 This app is made to ask questions about any uploaded image. It works on the Vision-and-Language Transformer (ViLT) which has been fine tuned on VQAv2 available on Hugging Face. [Link to the model](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa)
 
